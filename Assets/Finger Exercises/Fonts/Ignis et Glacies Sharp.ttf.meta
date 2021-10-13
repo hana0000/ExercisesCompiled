@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 79e4a84a938548747a5c70b420ec022c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 180
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ignis et Glacies Sharp
+  fontNames:
+  - Ignis et Glacies Sharp
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8054cdb594fb331478ff3f7c0f4cc405, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

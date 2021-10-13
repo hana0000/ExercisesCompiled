@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/ChooseExercise.unity
+    guid: 5a63bc78e5edbc644bab2b3270cb32b2
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Finger Exercise Description 1.unity
+    guid: b41eff4181febd64ea92ae015cb2b187
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Finger Exercise Description 2.unity
+    guid: c64bd27b5108a6348bbb347217a45190
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Finger Exercise Description 3.unity
+    guid: 9478d6e1781ee884fbeff94d2655902c
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Hand Exercise 1.unity
+    guid: 2e8ecbb9ea2e340009ac8d7dd6fbd854
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Hand Exercise 2.unity
+    guid: b8446bb3098a5e241b5d4afd44594bba
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Hand Exercise 3.unity
+    guid: cac603f81093e454c89f93fe0a21eec8
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Hand Exercise 4.unity
+    guid: 22244e8b0383d4b4d93db148d07ed2e9
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Hand Exercise Description 1.unity
+    guid: dc1c75b2153a3de4a96e6b8ce3e2d228
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Hand Exercise Description 2.unity
+    guid: 131c8c47043286c4ca160ad47e37d576
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Hand Exercise Description 3.unity
+    guid: 3ccd2575140a7534f85e819cc9dd2d45
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Hand Exercise Description 4.unity
+    guid: 37de9fba4cbb12d4f9be6dc85b580e04
+  - enabled: 1
+    path: Assets/Manomotion/Scenes/Summary.unity
+    guid: 3a80984ba3b38964582f53a6d194aa0d
+  - enabled: 1
+    path: Assets/Finger Exercises/Scenes/Exercise3Left.unity
+    guid: 723f305125223f04c832450bc9db5bb5
+  - enabled: 1
+    path: Assets/Finger Exercises/Scenes/Exercise3Right.unity
+    guid: 4288453c6fa18fb46bd51a7ff8980bc1
+  - enabled: 1
+    path: Assets/Finger Exercises/Scenes/Exercise4Left.unity
+    guid: c74dbdb12a1a0924baad2384ce2de48f
+  - enabled: 1
+    path: Assets/Finger Exercises/Scenes/Exercise4Right.unity
+    guid: b1ed0bef5ae87d749995bfc42ed0f23b
+  - enabled: 1
+    path: Assets/Finger Exercises/Scenes/Exercise5.unity
+    guid: bc6dc3006dd67a24fae65dbae915f9cf
+  m_configObjects: {}
